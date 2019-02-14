@@ -1,7 +1,2 @@
-oepl;astra;1200;42343;maciej;tak
-tak;nime;312;312;moze;niewiem
-gjksn;gsd;123;414;angea;gadg
-marka;marka;1;1;marka;marka
-tomek;pociaf;1;2;maciej;jeszczejak
-marka;model;2;1;imie;nazwisko
-tak;nie;1;2;moze;niewiem
+opel;astra;300000;2000;jan;kowalski
+mazda;costam;10;2019;dominik;siecinski
