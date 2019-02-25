@@ -12,4 +12,5 @@ def dwie_pierwsze(n):
 def main():
     print(silnia(n))
     print(dwie_pierwsze(silnia(n)))
+    input()
 main()
